@@ -9,7 +9,7 @@ export const Hero = () => {
             </p>
             <a href="mailto:jchhabr1@ualberta.ca" className={styles.contactBtn}>Contact Me</a>
         </div>
-        <img src ={getImageUrl("hero/heroImage1.png")} alt = "hero image of me"className={styles.heroImg}>
+        <img src ={getImageUrl("hero/image.png")} alt = "hero image of me"className={styles.heroImg}>
 
         </img>
         <div className= {styles.topBlur}></div>

@@ -17,6 +17,7 @@
     align-items: flex-start;
     color: var(--color-text);
     z-index: 1;
+    width: 55%;
 }
 
 .title {
@@ -49,7 +50,7 @@
     box-shadow: 0 0 4px 0 rgba(0,0,0,0,0.25);
 }
 .heroImg {
-    width: 50%;
+    width: 40%;
     z-index: 1;
     animation-name: floating;
     animation-duration: 3s;
