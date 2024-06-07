@@ -1,4 +1,21 @@
 [
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "C",
+    "imageSrc": "skills/clang.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/cpp.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  
     {
       "title": "HTML",
       "imageSrc": "skills/html.png"
@@ -12,12 +29,8 @@
       "imageSrc": "skills/react.png"
     },
     {
-      "title": "Node",
-      "imageSrc": "skills/node.png"
-    },
-    {
-      "title": "GraphQL",
-      "imageSrc": "skills/graphql.png"
+      "title": "SQL",
+      "imageSrc": "skills/sqlite.png"
     },
     {
       "title": "MongoDB",
@@ -26,5 +39,13 @@
     {
       "title": "Figma",
       "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "RISC-V",
+      "imageSrc": "skills/riscv.png"
+    },
+    {
+      "title": "Docker",
+      "imageSrc": "skills/docker.svg"
     }
   ]

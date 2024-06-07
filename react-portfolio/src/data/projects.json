@@ -1,26 +1,88 @@
 [
+  {
+    "title": "QR Dasher: Event Check-In System",
+    "imageSrc": "projects/projectAndroid.png",
+    "description": ["• Developed an Android app for event management with QR code-based attendee check-ins."
+
+    ,"• Implemented Firebase integration for real-time event and attendee data management."
+    
+    ,"• Created role-based access for organizers and attendees with distinct functionalities."
+    
+    ,"• Incorporated optional geolocation verification to confirm attendee presence"
+    
+    ,"• Added features for push notifications, event poster uploads, and profile management."
+    
+  ,"• Utlized Kanban board, Figma for UI/UX design, UML class diagrams, CRC Cards, and Git for efficient project management, architecture planning, and version control"]
+    ,
+    
+    "skills": ["Android Studio", "Java", "JUnit testing","Figma", "GitHub", "Firebase"],
+    "demo": "https://github.com/CMPUT301W24T22/QR-Dasher/wiki",
+    "source": "https://github.com/CMPUT301W24T22/QR-Dasher"
+  },
+  {
+    "title": "Classic Snake Game in Assembly",
+    "imageSrc": "projects/projectSnake.png",
+    "description": ["• Designed and implemented a fully functional Snake game utilizing the RISC-V instruction set."
+
+    ,"• Created an exception handler to manage keyboard and timer interrupts, ensuring smooth and responsive gameplay."
+    
+    ,"• Utilized memory-mapped IO for keyboard and display interactions and programmed a timer for precise snake movements and countdown functionality."
+    
+    ,"• Constructed the game logic, including snake movement, apple generation using a Linear Congruential Generator (LCG) for randomization, collision detection, and time management based on different difficulty levels."
+    
+    ,"• Programmed the game to read user inputs directly from the keyboard and update the game display in real-time, providing a seamless gaming experience."
+    
+    ,"• Ensured efficient use of system resources by implementing a non-re-entrant interrupt handler and using flags to control the display updates, minimizing unnecessary screen refreshes."]
+    ,
+    
+    "skills": ["RISC-V", "Computer Architecture", "Interrupt Handling","Exception Handling"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "AI Resume Builder",
+    "imageSrc": "projects/projectResume.png",
+    "description": ["• Chrome extension that streamlines the job application process using OpenAI’s LLM by allowing users to upload their master resume and extracting key information from job postings to dynamically tailor the resume",
+    "• Generates personalized cover letters by drawing insights from job postings, creating compelling and tailored introductions for each application",
+    "• The extension includes a mock interview feature, simulating real scenarios with questions derived from the job posting to help users practice and refine their responses"]
+    ,
+    
+    "skills": ["openAI API", "HTML/CSS", "Python","flask"],
+    "demo": "https://devpost.com/software/rizzume",
+    "source": "https://github.com/Krupal-Shah/rizzume"
+  },
+  {
+    "title": "Twitter Database Interface",
+    "imageSrc": "projects/projectTwitter.png",
+    "description": ["• Designed and implemented a command-line interface system in Python, integrating with both SQLite and MongoDB databases with a predefined schema for efficient data management ",
+    "• Functionality involved login screen, searching for tweets and users, composing tweets, listing followers, listing top tweets/users, and secure password storage to prevent SQL injection attacks",
+    "• Implementation of indexing in MongoDB to make searches and actions instant in a database with over a million tweets"]
+    ,
+    
+    "skills": ["MongoDB", "SQL", "Python"],
+    "demo": "https://github.com/jaz404/twitter-sql/blob/main/designDoc.pdf",
+    "source": "https://github.com/jaz404/twitter-sql"
+  },
+  {
+    "title": "WizCap: SmartBulb",
+    "imageSrc": "projects/projectBulb.png",
+    "description": ["• Software that allows you to connect to a Smart Lightbulb and adjusts its color to match the hues on ascreen, providing an immersive and personalized ambiance for media consumption",
+    "• Utilized smart bulb's API to receive average RGB data of pixels obtained from OpenCV"]
+    ,
+    
+    "skills": ["OpenCV", "HTML/CSS", "Flask", "Python", "APIs"],
+    "demo": "https://www.youtube.com/watch?v=S-JM7SxMQKU",
+    "source": "https://github.com/carlosm3/WiZCaP-Team-Name"
+  },
+  
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "PID Line Follower Rescuer Robot",
+      "imageSrc": "projects/projectPID.png",
+      "description": ["• Led a multi-disciplinary team in designing, building, and programming robots for path traversal, line following, and obstacle avoidance, showcasing strong project management and leadership skills", " • Demonstrated expertise in the practical application of infrared sensors, ultrasonic sensors, color sensors, Arduino, circuit board design etc "," • 2nd Position at Rescue line, Robocup Nationals India 2019 ","• Qualified and Pariticipated in Robocup Asia Pacific, Moscow 2020"]
+      ,
+      
+      "skills": ["Arduino", "C/C++", "Lego Mindstorms EV3", "Fusion 360"],
+      "demo": "https://www.youtube.com/watch?v=rcEh0pFEI-g",
+      "source": "https://drive.google.com/file/d/1P9oRgpX7FrHSxrGUlvlaFAF7eGkdgBXZ/view?usp=embed_facebook"
     }
   ]

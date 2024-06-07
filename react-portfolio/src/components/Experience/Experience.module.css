@@ -69,6 +69,7 @@
 }
 .historyItem img {
     width: 50px;
+    border-radius: 100%;
 }
 .historyItemDetails {
     font-family: var(--font-roboto);

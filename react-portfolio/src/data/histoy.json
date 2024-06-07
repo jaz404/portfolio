@@ -1,29 +1,31 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
+      "role": "Software Member",
+      "organisation": "The Autonomous Robotic Vehicle Project (ARVP)",
+      "startDate": "Mar, 2023",
       "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
+      "experiences": ["Developing and optimizing the software stack for Arctos, an autonomous underwater vehicle designed to navigate and complete complex underwater tasks autonomously, for RoboSub 2024", 
+      "Utilized Docker for containerization, ROS 2 for robotics middleware, and Python for scripting",
+      "Currently writing a comprehensive test script to validate all aspects of the robot’s performance before pool tests, ensuring reliability and readiness for competition"],
+      "imageSrc": "history/historyARVP.jpg"
     },
     {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
+      "role": "Tutor",
+      "organisation": "University of Alberta Students' Union",
+      "startDate": "Jan, 2024",
+      "endDate": "Present",
+      "experiences": ["Tutoring university students for computer science courses: CMPUT 174, 175, 272, 340, 229, 291, 201 and mathematical courses: MATH 100, 101, 102, 214, 215, 253, 241"],
+      "imageSrc": "history/historyTutor.jpg"
     },
     {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
+      "role": "Deputy ECE lead",
+      "organisation": "Space Exploration Alberta Robotics (SPEAR)",
+      "startDate": "Nov, 2022",
+      "endDate": "Jun, 2023",
       "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
+        "Built a Mars-style rover for the Canadian International Rover Challenge."
+        ,"Developed and maiontained the low-level firmware (RTOS) running on the microcontrollers controlling the power distribution systems, communication systems, arm controller, and motor drivers and Robot Operating System (ROS), which controlled the higher-level functions of the rover"
       ],
-      "imageSrc": "history/netflix.png"
+      "imageSrc": "history/historySpear.jpg"
     }
   ]
